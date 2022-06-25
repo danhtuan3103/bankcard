@@ -1,7 +1,7 @@
 {
   "name": "bankcard",
   "version": "0.1.0",
-  "homepage": "https://danhtuan3103.github.io/bank_card",
+  "homepage": "https://danhtuan3103.github.io/bankcard",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.9.3",
