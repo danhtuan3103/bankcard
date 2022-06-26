@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/bankcard/static/css/main.723fa2a1.css",
+    "main.css": "/bankcard/static/css/main.d87f0b0f.css",
     "main.js": "/bankcard/static/js/main.d0d2f1ba.js",
     "static/js/787.630c3b96.chunk.js": "/bankcard/static/js/787.630c3b96.chunk.js",
     "static/media/shinhan.png": "/bankcard/static/media/shinhan.9b797b810fdad9278aa7.png",
@@ -9,12 +9,12 @@
     "static/media/worri.webp": "/bankcard/static/media/worri.96f4eb3c601fa2e0a70e.webp",
     "static/media/nonghuyp.png": "/bankcard/static/media/nonghuyp.f4d47b91590909bd7c5d.png",
     "index.html": "/bankcard/index.html",
-    "main.723fa2a1.css.map": "/bankcard/static/css/main.723fa2a1.css.map",
+    "main.d87f0b0f.css.map": "/bankcard/static/css/main.d87f0b0f.css.map",
     "main.d0d2f1ba.js.map": "/bankcard/static/js/main.d0d2f1ba.js.map",
     "787.630c3b96.chunk.js.map": "/bankcard/static/js/787.630c3b96.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.723fa2a1.css",
+    "static/css/main.d87f0b0f.css",
     "static/js/main.d0d2f1ba.js"
   ]
 }
